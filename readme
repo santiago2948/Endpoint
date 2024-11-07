@@ -1,0 +1,36 @@
+# Auth API
+
+## Introduction
+
+This project is one tial for using jsonwebtokens in node js, with express.
+
+## Use 
+
+This API simulates an user login, and create one token as access key to use in others endpoints to authenticate it acces as real user to this app. 
+
+## Installation
+
+After clone this project, run the next commands: 
+    1. npm i
+    2. npm start
+
+### requeriments
+
+- Node.js
+
+### Installation instructions
+
+Example:
+
+```bash
+# Clone repository
+git clone https://github.com/usuario/proyecto.git
+
+# get in proyect 
+cd proyecto
+
+# install dependencies
+npm install
+
+#run server in dev mode
+npm start
