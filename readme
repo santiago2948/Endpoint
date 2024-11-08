@@ -24,10 +24,10 @@ Example:
 
 ```bash
 # Clone repository
-git clone https://github.com/usuario/proyecto.git
+git clone https://github.com/santiago2948/Endpoint.git
 
 # get in proyect 
-cd proyecto
+cd Endpoint
 
 # install dependencies
 npm install
